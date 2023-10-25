@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Trap
+  - Ice
+  - Fire
+  - WaterHole
+  - Vine
+  - Explode
+  - Energy
+  - Save
+  - Attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - "\u5730\u5716\u6846\u67B6"
+  - "\u524D\u666F"
+  - "\u5F8C\u666F"
+  - "\u7269\u4EF6"
+  - "\u80CC\u666F\u5730\u5716"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 1449013227
+    locked: 0
+  - name: BG2
+    uniqueID: 3071969513
+    locked: 0
+  - name: BG3
+    uniqueID: 1615818713
+    locked: 0
+  - name: BG4
+    uniqueID: 2952338153
+    locked: 0
+  - name: BG5
+    uniqueID: 3007543627
+    locked: 0
+  - name: BG6
+    uniqueID: 4024620117
+    locked: 0
+  - name: Sand
+    uniqueID: 3892216901
+    locked: 0
+  - name: MG
+    uniqueID: 3326947045
+    locked: 0
+  - name: MG2
+    uniqueID: 765563341
+    locked: 0
+  - name: Player
+    uniqueID: 1721477971
+    locked: 0
+  - name: Glass
+    uniqueID: 555891753
+    locked: 0
+  - name: Water
+    uniqueID: 299928343
+    locked: 0
+  - name: FG
+    uniqueID: 3760366523
+    locked: 0
